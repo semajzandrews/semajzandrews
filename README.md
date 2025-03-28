@@ -30,23 +30,36 @@ Software Engineer with a passion for full-stack and mobile development. I love c
 
 ---
 
-## 📂 My GitHub Projects  
-🔹 **iOS Development**  
-- [🌦 Weather App](https://github.com/yourusername/weather-app) – Uses CoreLocation, API fetching, and SwiftUI.  
-- [✅ TaskMaster](https://github.com/yourusername/taskmaster) – A feature-rich to-do app with animations.  
+## 📂 My GitHub Projects
+
+🔹 **Mobile Development**  
+- [♠ Blackjack Calculator](https://github.com/yourusername/blackjack-calculator) – An app to calculate the best betting strategies for Blackjack games.  
+- [🌍 Language Frequency App](https://github.com/yourusername/language-frequency-app) – A mobile app that analyzes language usage frequency in text.  
+- [🃏 Yu-Gi-Oh! Card Generator](https://github.com/yourusername/yugioh-card-generator) – A card prediction and generator tool for organizing and scanning Yu-Gi-Oh! cards.  
 
 🔹 **Web Development**  
-- [🚚 Food Truck Finder](https://github.com/yourusername/food-truck-app) – React + Firebase for real-time ordering.  
+- [🏠 HomeScout Real Estate](https://github.com/yourusername/homescout-realestate) – Real estate website for browsing properties and interacting with listings.  
+- [💄 Cosmetics E-Commerce](https://github.com/yourusername/cosmetics-ecommerce) – A fully functional e-commerce site for selling cosmetics online.  
+- [🛋 Furniture E-Commerce](https://github.com/yourusername/furniture-ecommerce) – A dynamic website for selling furniture with user-friendly navigation.  
+- [🧴 Skin Care E-Commerce](https://github.com/yourusername/skin-care-ecommerce) – E-commerce platform for skin care products.  
+- [🎨 Draw to Reveal Landing Page](https://github.com/yourusername/draw-to-reveal-landing-page-website) – A landing page with a fun, interactive "draw to reveal" feature.  
+- [🛒 Tech Store E-Commerce](https://github.com/yourusername/tech-store-ecommerce) – Online store for tech products with responsive design.  
 
 🔹 **Email Development**  
-- [🚚 Food Truck Finder](https://github.com/yourusername/food-truck-app) – React + Firebase for real-time ordering.  
+- [⌚ Smart Watch Newsletter Email](https://github.com/yourusername/smart-watch-newsletter-email-1) – HTML email template for smart watch promotional newsletters.  
+- [📦 Office Depot Shipping Confirmation](https://github.com/yourusername/officedepot-shipping-confirmation-email-1) – Shipping confirmation email template for Office Depot.  
+- [💳 Puma Abandoned Cart Email](https://github.com/yourusername/puma-abandoned-cart-email-1) – Abandoned cart email design for Puma.  
+- [🛒 Lowe's Abandoned Cart Email](https://github.com/yourusername/lowes-abandoned-cart-email-1) – Abandoned cart recovery email template for Lowe's.  
+- [👚 Shein Promotional Email](https://github.com/yourusername/shein-promotional-email-1) – Promotional email design for Shein.  
+- [🌱 ThisWorks Promotional Email](https://github.com/yourusername/thisworks-promotional-email-1) – Promotional email for wellness brand ThisWorks.  
+- [🌸 Prana Transactional Email](https://github.com/yourusername/prana-transactional-email-1) – Transactional email template for Prana.  
 
-🔹 **AI & Automation**  
-- [🛒 Food Inventory Manager](https://github.com/yourusername/food-inventory-manager) – AI-powered recipe generator.  
-- [♦ Blackjack Calculator](https://github.com/yourusername/blackjack-calc) – AI-driven betting strategy for live games.  
+🔹 **Game Development**  
+- [🎮 Disaster – Global Game Jam](https://v3.globalgamejam.org/2015/games/disaster) – Creator credit for the Global Game Jam 2015 game "Disaster".  
 
-🔹 **Game Dev**  
-- [💻 Coding Trainer](https://github.com/yourusername/coding-trainer) – A typing-based game for learning code.  
+🔹 **Private Work**  
+- [🌿 RollUpLife Cannabis Delivery App](https://github.com/yourusername/rolluplife) – An iOS app for legal cannabis delivery in New Jersey. (Code cannot be shared due to client confidentiality.)  
+- [🩺 StationMD (Private Work)](https://github.com/yourusername/stationmd) – Contributions to a Progressive Web App, iOS, and Android apps for StationMD, including database management, accessibility testing, and QR code generation. (Can't share code but may add a project link in the future.)  
 
 ---
 
