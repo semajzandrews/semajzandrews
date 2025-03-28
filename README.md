@@ -1,11 +1,13 @@
 # 👋 Hey, I'm Semaj!  
 🚀 Software Engineer | Full-Stack & Mobile Development | AI Enthusiast 
+ 
+Software Engineer with a passion for full-stack and mobile development. I love creating clean, functional code and am always exploring new technologies. Check out my projects and feel free to reach out if you want to collaborate or chat about tech.  
 
 ## 🔗 Quick Links  
 🔹 **[🌍 Portfolio Website](https://yourportfolio.com)**  
-🔹 **[💼 LinkedIn](https://linkedin.com/in/yourhandle)**  
-🔹 **[📜 Resume](https://yourresume.com)**  
+🔹 **[💼 LinkedIn](https://linkedin.com/in/yourhandle)**   
 🔹 **[💡 LeetCode](https://leetcode.com/yourhandle/)**  
+🔹 **[📜 Resume](https://yourresume.com)**  
  
 ---
 
@@ -33,12 +35,15 @@
 - [🌦 Weather App](https://github.com/yourusername/weather-app) – Uses CoreLocation, API fetching, and SwiftUI.  
 - [✅ TaskMaster](https://github.com/yourusername/taskmaster) – A feature-rich to-do app with animations.  
 
+🔹 **Web Development**  
+- [🚚 Food Truck Finder](https://github.com/yourusername/food-truck-app) – React + Firebase for real-time ordering.  
+
+🔹 **Email Development**  
+- [🚚 Food Truck Finder](https://github.com/yourusername/food-truck-app) – React + Firebase for real-time ordering.  
+
 🔹 **AI & Automation**  
 - [🛒 Food Inventory Manager](https://github.com/yourusername/food-inventory-manager) – AI-powered recipe generator.  
 - [♦ Blackjack Calculator](https://github.com/yourusername/blackjack-calc) – AI-driven betting strategy for live games.  
-
-🔹 **Web Development**  
-- [🚚 Food Truck Finder](https://github.com/yourusername/food-truck-app) – React + Firebase for real-time ordering.  
 
 🔹 **Game Dev**  
 - [💻 Coding Trainer](https://github.com/yourusername/coding-trainer) – A typing-based game for learning code.  
@@ -47,4 +52,5 @@
 
 ## 📫 **Let's Connect!**  
 📧 Email: semajzandrews@gmail.com  
+
 💬 Open to collaborations & freelance work!
