@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Semaj!  
-🚀 iOS & Full-Stack Developer | AI Enthusiast | Problem Solver  
+🚀 Software Engineer | Full-Stack & Mobile Development | AI Enthusiast 
 
 ## 🔗 Quick Links  
 🔹 **[🌍 Portfolio Website](https://yourportfolio.com)**  
