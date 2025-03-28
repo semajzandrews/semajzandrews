@@ -4,9 +4,9 @@
 Software Engineer with a passion for full-stack and mobile development. I love creating clean, functional code and am always exploring new technologies. Check out my projects and feel free to reach out if you want to collaborate or chat about tech.  
 
 ## 🔗 Quick Links  
-🔹 **[🌍 Portfolio Website](https://yourportfolio.com)**  
-🔹 **[💼 LinkedIn](https://linkedin.com/in/yourhandle)**   
-🔹 **[💡 LeetCode](https://leetcode.com/yourhandle/)**  
+🔹 **[🌍 Portfolio Website](https://semaj-dev.vercel.app/)**  
+🔹 **[💼 LinkedIn](https://linkedin.com/in/semajzandrews2)**   
+🔹 **[💡 LeetCode](https://leetcode.com/semajzandrews/)**  
 🔹 **[📜 Resume](https://yourresume.com)**  
  
 ---
@@ -58,9 +58,8 @@ Software Engineer with a passion for full-stack and mobile development. I love c
 - [🎮 Disaster – Global Game Jam](https://v3.globalgamejam.org/2015/games/disaster) – Creator credit for the Global Game Jam 2015 game "Disaster".  
 
 🔹 **Private Work**  
-- [🌿 RollUpLife Cannabis Delivery App](https://github.com/yourusername/rolluplife) – An iOS app for legal cannabis delivery in New Jersey. (Code cannot be shared due to client confidentiality.)  
-- [🩺 StationMD (Private Work)](https://github.com/yourusername/stationmd) – Contributions to a Progressive Web App, iOS, and Android apps for StationMD, including database management, accessibility testing, and QR code generation. (Can't share code but may add a project link in the future.)  
-
+- [🩺 StationMD (Private Work)](https://github.com/yourusername/stationmd) – Key contributions to StationMD's Progressive Web App, iOS, and Android applications. This includes managing and updating databases, conducting accessibility testing, and developing QR code generation tools to assist patients with meeting entry. (Code cannot be shared due to client agreements, but a project link may be added in the future.)
+- [🍁 RollUpLife (Private Work)](https://github.com/yourusername/rolluplife) – Lead development efforts for RollUpLife’s comprehensive mobile app ecosystem for legal cannabis delivery in New Jersey. The project involves multiple applications for customers, drivers, and dispensaries, covering a wide range of features, including user experience, real-time tracking, order management, and seamless integration across platforms. (Code cannot be shared due to client agreements, but a project link may be added in the future.)
 ---
 
 ## 📫 **Let's Connect!**  
