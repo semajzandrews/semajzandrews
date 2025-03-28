@@ -1,16 +1,15 @@
-## Hi there 👋
+## 📂 My GitHub Projects
 
-<!--
-**semajzandrews/semajzandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 iOS Development
+- **[Weather App](https://github.com/yourusername/weather-app)** – Uses CoreLocation, API fetching, and SwiftUI.
+- **[TaskMaster](https://github.com/yourusername/taskmaster)** – A feature-rich to-do app with animations.
 
-Here are some ideas to get you started:
+### 🔹 AI & Automation
+- **[Food Inventory Manager](https://github.com/yourusername/food-inventory-manager)** – AI-powered recipe generator.
+- **[Blackjack Calculator](https://github.com/yourusername/blackjack-calc)** – AI-driven betting strategy for live games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Web Development
+- **[Food Truck Finder](https://github.com/yourusername/food-truck-app)** – React + Firebase for real-time ordering.
+
+### 🔹 Game Dev
+- **[Coding Trainer](https://github.com/yourusername/coding-trainer)** – A typing-based game for learning code.
