@@ -4,10 +4,9 @@
 Software Engineer with a passion for full-stack and mobile development. I love creating clean, functional code and am always exploring new technologies. Check out my projects and feel free to reach out if you want to collaborate or chat about tech.  
 
 ## 🔗 Quick Links  
-🔹 **[🌍 Portfolio Website](https://semaj-dev.vercel.app/)**  
+🔹 **[🌍 Portfolio Website](https://bysemaj.com/)**  
 🔹 **[💼 LinkedIn](https://linkedin.com/in/semajzandrews2)**   
-🔹 **[💡 LeetCode](https://leetcode.com/semajzandrews/)**  
-🔹 **[📜 Resume](https://yourresume.com)**  
+🔹 **[💡 LeetCode](https://leetcode.com/semajzandrews/)**   
  
 ---
 
