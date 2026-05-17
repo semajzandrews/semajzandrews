@@ -13,7 +13,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/portfolio-bysemaj.com-b8924a?style=for-the-badge&logo=safari&logoColor=b8924a&labelColor=0d1421)](https://bysemaj.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-semajzandrews-b8924a?style=for-the-badge&logo=linkedin&logoColor=b8924a&labelColor=0d1421)](https://linkedin.com/in/semajzandrews)
+[![LinkedIn](https://img.shields.io/badge/linkedin-semajzandrews2-b8924a?style=for-the-badge&logo=linkedin&logoColor=b8924a&labelColor=0d1421)](https://linkedin.com/in/semajzandrews2)
 [![Email](https://img.shields.io/badge/email-semajzandrews@gmail.com-b8924a?style=for-the-badge&logo=gmail&logoColor=b8924a&labelColor=0d1421)](mailto:semajzandrews@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=semajzandrews&label=Profile+views&color=b8924a&style=for-the-badge)](https://github.com/semajzandrews)
 
@@ -243,7 +243,7 @@ Google Business API sourcing → AI-generated landing pages → QR/PIN preview �
   <a href="https://bysemaj.com">
     <img src="https://img.shields.io/badge/-bysemaj.com-b8924a?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1421" />
   </a>
-  <a href="https://linkedin.com/in/semajzandrews">
+  <a href="https://linkedin.com/in/semajzandrews2">
     <img src="https://img.shields.io/badge/-LinkedIn-b8924a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1421" />
   </a>
 </p>
