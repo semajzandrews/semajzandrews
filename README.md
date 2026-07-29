@@ -25,9 +25,9 @@
 <tr>
 <td align="center">
 
-> ### *I build autonomous AI systems that ship real products — not demos.*
+> ### *I build agentic systems and ship them into production.*
 >
-> My work centers on orchestrating LLM agents (primarily **Claude via the Model Context Protocol**) to design, generate, and deploy production software end-to-end. From editorial-quality marketing sites to multi-agent SaaS platforms, I focus on shipping work that holds up against Awwwards winners and Fortune 500 standards.
+> Engineer with 6+ years shipping production software, now focused on agentic AI. I architect and run a **multi-agent build system on the Claude API and the MCP protocol** that takes a brief to a deployed product without manual handoffs, and I have 80+ live applications generated through it. I work across the whole stack it needs — React, Next.js, TypeScript, Python, Supabase — and I own the full lifecycle from design through deployment.
 
 </td>
 </tr>
@@ -98,9 +98,9 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 
 <!-- ───────────────────────── SELECTED LIVE WORK ───────────────────────── -->
 
-<h2 align="center">🎨 Selected Live Work</h2>
+<h2 align="center">🎨 Selected Live Websites</h2>
 
-<p align="center"><em>Production sites · award-caliber design standard · all deployed on Vercel</em></p>
+<p align="center"><strong>80+ bespoke business websites designed and deployed to production</strong><br><em>Each individually built (no templates), responsive, and live in the browser.</em></p>
 
 <table>
   <tr>
@@ -167,24 +167,62 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 
 <br>
 
+<p align="center"><em>A curated selection from the 80+, best-first:</em></p>
+
+<table align="center" width="100%">
+<tr>
+  <td width="50%"><a href="https://ramen-gami.vercel.app"><strong>Ramen Gami</strong></a> <sub>· Restaurant</sub></td>
+  <td width="50%"><a href="https://six-points-creative-spaces.vercel.app"><strong>Six Points Creative</strong></a> <sub>· Creative Studio</sub></td>
+</tr>
+<tr>
+  <td><a href="https://alpha-daycare-center.vercel.app"><strong>Alpha Daycare Center</strong></a> <sub>· Childcare</sub></td>
+  <td><a href="https://cantina-443.vercel.app"><strong>Cantina 443</strong></a> <sub>· Restaurant</sub></td>
+</tr>
+<tr>
+  <td><a href="https://east-orange-animal-hospital.vercel.app"><strong>East Orange Animal Hospital</strong></a> <sub>· Veterinary</sub></td>
+  <td><a href="https://more-more-now-records.vercel.app"><strong>More More Now Records</strong></a> <sub>· Record Shop</sub></td>
+</tr>
+<tr>
+  <td><a href="https://my-amor-coffee.vercel.app"><strong>My Amor Coffee</strong></a> <sub>· Cafe</sub></td>
+  <td><a href="https://kador-beauty-salon.vercel.app"><strong>Kador Beauty Salon</strong></a> <sub>· Beauty Salon</sub></td>
+</tr>
+<tr>
+  <td><a href="https://vega-jewelry.vercel.app"><strong>Vega Jewelry</strong></a> <sub>· Jewelry</sub></td>
+  <td><a href="https://gq-cutz-barber-boutique.vercel.app"><strong>GQ Cutz</strong></a> <sub>· Barbershop</sub></td>
+</tr>
+</table>
+
+<p align="center"><strong><a href="https://bysemaj.com">Full portfolio of all 80+ live websites at bysemaj.com →</a></strong></p>
+
+<br>
+
 <!-- ───────────────────────── TECH STACK ───────────────────────── -->
 
-<h2 align="center">🧠 Stack I Work In Daily</h2>
+<h2 align="center">🧠 Core Skills</h2>
 
 <div align="center">
 
-#### AI & Agents
+#### AI & Automation
 <img src="https://img.shields.io/badge/Claude%20API-d97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP%20Protocol-b8924a?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-0d1421?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Agentic%20Workflows-0d1421?style=for-the-badge" />
 
-#### Languages, Frameworks, Tools
+#### Languages · Frontend · Backend · DevOps
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts,py,swift,java,js,html,css,react,nextjs,tailwind,nodejs,fastapi,postgres,supabase,firebase,docker,git,github,vercel,xcode,figma&perline=11" />
 </a>
+
+<br><br>
+
+<table align="center" width="100%">
+<tr><td><strong>Languages</strong></td><td>Swift, Python, TypeScript, JavaScript, Java, C++, SQL, HTML, CSS</td></tr>
+<tr><td><strong>Frontend</strong></td><td>React, Next.js 16, Vite, Tailwind CSS v4, GSAP, Framer Motion, Three.js, shadcn/ui</td></tr>
+<tr><td><strong>Backend</strong></td><td>Node.js, tRPC, REST APIs, GraphQL, Supabase, Firebase, MySQL, PostgreSQL</td></tr>
+<tr><td><strong>DevOps &amp; Tools</strong></td><td>Git, GitHub, Vercel, Cloudflare, CI/CD, Stripe, eBay API, OAuth 2.0, WCAG/VPAT</td></tr>
+</table>
 
 </div>
 
@@ -245,7 +283,8 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  Open to <strong>Generative AI engineering</strong>, <strong>iOS engineering</strong>, <strong>full-stack</strong>, <strong>email development</strong>, and <strong>technical founder</strong> conversations.
+  Open to <strong>AI &amp; agentic engineering</strong>, <strong>full-stack</strong>, <strong>frontend</strong>, <strong>native iOS</strong>, and <strong>forward deployed / solutions engineering</strong> roles.<br>
+  <sub>Orange, NJ · remote, hybrid, or on-site</sub>
 </p>
 
 <p align="center">
