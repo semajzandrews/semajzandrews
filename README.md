@@ -3,12 +3,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://bysemaj.com">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1421,50:1a2240,100:b8924a&text=Semaj%20Z.%20Andrews&fontColor=f7f5f0&fontSize=58&fontAlignY=38&desc=AI%20engineer%20·%20Founder%20·%20Full-stack%20·%20iOS&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1421,50:1a2240,100:b8924a&text=Semaj%20Z.%20Andrews&fontColor=f7f5f0&fontSize=58&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20·%20Agentic%20Systems%20·%20Full-Stack%20·%20iOS&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
 </a>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=2600&pause=400&color=B8924A&center=true&vCenter=true&width=720&lines=AI+engineer+building+agentic+systems+with+Claude+%2B+MCP;Founder+%40+BuildWhatYouWant+·+80%2B+live+sites+shipped;Full-stack+·+TypeScript+·+Python+·+Swift;Editorial-quality+web+·+iOS+·+production+AI)](https://bysemaj.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=2600&pause=400&color=B8924A&center=true&vCenter=true&width=720&lines=Forward+Deployed+Engineer+·+I+build+it+and+I+ship+it;Agentic+systems+on+the+Claude+API+%2B+MCP+protocol;80%2B+live+web+applications+designed+and+deployed;Native+iOS+for+Fortune+500+client+engagements;Full-stack+·+TypeScript+·+Python+·+Swift)](https://bysemaj.com)
 
 <br>
 
@@ -25,9 +25,9 @@
 <tr>
 <td align="center">
 
-> ### *I build agentic systems and ship them into production.*
+> ### *I build across AI, web, and mobile, and ship it.*
 >
-> Engineer with 6+ years shipping production software, now focused on agentic AI. I architect and run a **multi-agent build system on the Claude API and the MCP protocol** that takes a brief to a deployed product without manual handoffs, and I have 80+ live applications generated through it. I work across the whole stack it needs — React, Next.js, TypeScript, Python, Supabase — and I own the full lifecycle from design through deployment.
+> **Forward Deployed Engineer** with 6+ years building and shipping production software end to end, close to the customer. I architect and run a multi-agent AI build pipeline, have designed and deployed **80+ live web applications**, and built native iOS apps for Fortune 500 clients. I move fluently across AI systems (Claude API, MCP, multi-agent orchestration), full-stack web (React, Next.js, TypeScript), and native iOS (Swift, SwiftUI), and I own the full lifecycle from design through deployment and the customer relationship.
 
 </td>
 </tr>
@@ -220,6 +220,7 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 <table align="center" width="100%">
 <tr><td><strong>Languages</strong></td><td>Swift, Python, TypeScript, JavaScript, Java, C++, SQL, HTML, CSS</td></tr>
 <tr><td><strong>Frontend</strong></td><td>React, Next.js 16, Vite, Tailwind CSS v4, GSAP, Framer Motion, Three.js, shadcn/ui</td></tr>
+<tr><td><strong>Mobile</strong></td><td>SwiftUI, UIKit, Xcode, Core Data, MapKit, React Native, Expo</td></tr>
 <tr><td><strong>Backend</strong></td><td>Node.js, tRPC, REST APIs, GraphQL, Supabase, Firebase, MySQL, PostgreSQL</td></tr>
 <tr><td><strong>DevOps &amp; Tools</strong></td><td>Git, GitHub, Vercel, Cloudflare, CI/CD, Stripe, eBay API, OAuth 2.0, WCAG/VPAT</td></tr>
 </table>
@@ -266,7 +267,7 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 <td width="33%" align="center">
   <h3>🚀</h3>
   <strong>Open to roles</strong><br>
-  AI · Full-Stack · Frontend · iOS · Solutions<br>
+  Forward Deployed · Solutions · AI/Agentic · Full-Stack · iOS<br>
   <sub>Let's talk →</sub>
 </td>
 </tr>
@@ -283,7 +284,7 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  Open to <strong>AI &amp; agentic engineering</strong>, <strong>full-stack</strong>, <strong>frontend</strong>, <strong>native iOS</strong>, and <strong>forward deployed / solutions engineering</strong> roles.<br>
+  Open to <strong>forward deployed</strong> and <strong>solutions engineering</strong>, <strong>AI &amp; agentic engineering</strong>, <strong>full-stack</strong>, <strong>frontend</strong>, and <strong>native iOS</strong> roles.<br>
   <sub>Orange, NJ · remote, hybrid, or on-site</sub>
 </p>
 
