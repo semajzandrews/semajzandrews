@@ -342,8 +342,8 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=semajzandrews&show_icons=true&hide_border=true&bg_color=0d1421&title_color=b8924a&icon_color=b8924a&text_color=e8e6e0&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semajzandrews&layout=compact&hide_border=true&bg_color=0d1421&title_color=b8924a&text_color=e8e6e0&langs_count=8" />
+<p align="center"><strong>218 repositories &middot; 80+ live production sites &middot; Newark &amp; Orange, NJ</strong><br><sub>Built, deployed, and maintained end to end. Each one individually designed, no templates.</sub></p>
+
 
 <br><br>
 
