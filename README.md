@@ -322,8 +322,8 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 </td>
 <td width="33%" align="center">
   <strong>Certifications</strong><br>
-  Business Technology <sub>(2010)</sub><br>
-  Business Administration <sub>(2010)</sub>
+  Business Technology <sub>(2013)</sub><br>
+  Business Administration <sub>(2013)</sub>
 </td>
 <td width="33%" align="center">
   <strong>Languages</strong><br>
