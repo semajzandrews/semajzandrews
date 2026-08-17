@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://bysemaj.com">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1421,50:1a2240,100:b8924a&text=Semaj%20Z.%20Andrews&fontColor=f7f5f0&fontSize=58&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20·%20Web,%20iOS%20%26%20AI&descAlignY=62&descSize=17&animation=fadeIn" width="100%" />
+  <img src="./assets/header-banner.png" alt="Semaj Z. Andrews, Forward Deployed Engineer" width="100%" />
 </a>
 
 <div align="center">
@@ -376,4 +376,4 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:b8924a,50:1a2240,100:0d1421&section=footer&animation=fadeIn" width="100%" />
+<img src="./assets/header-banner.png" width="100%" />
