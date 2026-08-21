@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=2800&pause=500&color=B8924A&center=true&vCenter=true&width=780&lines=I+build+across+AI%2C+web%2C+and+mobile%2C+and+ship+it.;Fast+to+market.+Easy+to+scale.+Hard+to+forget.;Multi-agent+AI+build+pipeline+on+the+Claude+API+%2B+MCP;80%2B+live+web+applications+designed+and+deployed;Native+iOS+for+Fortune+500+client+engagements)](https://bysemaj.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=2800&pause=500&color=B8924A&center=true&vCenter=true&width=780&lines=I+build+across+AI%2C+web%2C+and+mobile%2C+and+ship+it.;Fast+to+market.+Easy+to+scale.+Hard+to+forget.;Multi-agent+AI+build+pipeline+on+the+Claude+API+%2B+MCP;84+live+web+applications+designed+and+deployed;Native+iOS+for+Fortune+500+client+engagements)](https://bysemaj.com)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 > ### *I build across AI, web, and mobile, and ship it.*
 >
-> **Forward Deployed Engineer** with 6+ years building and shipping production software end to end, close to the customer. I architect and run a multi-agent AI build pipeline, have designed and deployed **80+ live web applications**, and built native iOS apps for Fortune 500 clients. I move fluently across AI systems (Claude API, MCP, multi-agent orchestration), full-stack web (React, Next.js, TypeScript), and native iOS (Swift, SwiftUI), and I own the full lifecycle from design through deployment and the customer relationship.
+> **Forward Deployed Engineer** with 7+ years building and shipping production software end to end, close to the customer. I architect and run a multi-agent AI build pipeline, have shipped **90+ projects including 84 live web applications**, and built native iOS apps for Fortune 500 clients. I move fluently across AI systems (Claude API, MCP, multi-agent orchestration), full-stack web (React, Next.js, TypeScript), and native iOS (Swift, SwiftUI), and I own the full lifecycle from design through deployment and the customer relationship.
 >
 > <sub>Newark, NJ · open to remote, hybrid, or on-site</sub>
 
@@ -101,7 +101,7 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 
 <h2 align="center">🎨 Selected Live Websites</h2>
 
-<p align="center"><strong>80+ bespoke business websites designed and deployed to production</strong><br><em>Each individually built (no templates), responsive, and live in the browser.</em></p>
+<p align="center"><strong>84 bespoke business websites designed and deployed to production</strong><br><em>Each individually built (no templates), responsive, and live in the browser.</em></p>
 
 <table>
   <tr>
@@ -168,7 +168,7 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 
 <br>
 
-<p align="center"><em>More from the 80+, best-first:</em></p>
+<p align="center"><em>More from the 84, best-first:</em></p>
 
 <table align="center" width="100%">
 <tr>
@@ -197,7 +197,7 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 </tr>
 </table>
 
-<p align="center"><strong><a href="https://bysemaj.com">Full portfolio of all 80+ live websites at bysemaj.com →</a></strong></p>
+<p align="center"><strong><a href="https://bysemaj.com">Full portfolio of all 84 live websites at bysemaj.com →</a></strong></p>
 
 <br>
 
@@ -246,7 +246,7 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 <sub>June 2024 – Present · Newark, NJ (Remote)</sub>
 
 - Founded an AI orchestration company. Built **IGRIS**, an extensible multi-agent engine on the Claude API and MCP that composes a growing toolkit of third-party APIs and MCP servers to autonomously generate production websites.
-- **80+ live business websites** built through the orchestration and hosted on the platform, scaling toward hundreds; productized with Stripe payments and webhooks, JWT auth, per-business QR access, and a field-operations tool.
+- **84 live business websites** built through the orchestration and hosted on the platform, scaling toward hundreds; productized with Stripe payments and webhooks, JWT auth, per-business QR access, and a field-operations tool.
 - Built the platform on **Next.js 16, React 19, and TypeScript**, deployed on Vercel with Supabase behind it.
 - Own the customer relationship end to end: scoping, demo, in-person close, and post-sale support.
 
@@ -342,7 +342,7 @@ The operating system around IGRIS: a gated four-phase pipeline, six specialist a
 
 <div align="center">
 
-<p align="center"><strong>218 repositories &middot; 80+ live production sites &middot; Newark &amp; Orange, NJ</strong><br><sub>Built, deployed, and maintained end to end. Each one individually designed, no templates.</sub></p>
+<p align="center"><strong>220 repositories &middot; 84 live production sites &middot; Newark &amp; Orange, NJ</strong><br><sub>Built, deployed, and maintained end to end. Each one individually designed, no templates.</sub></p>
 
 
 <br><br>
